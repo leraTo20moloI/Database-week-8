@@ -31,4 +31,3 @@ CREATE TABLE Appointment (appointment_id INT PRIMARY KEY, patient_id INT NOT NUL
 
 
 
-
